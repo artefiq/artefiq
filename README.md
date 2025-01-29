@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hey there! I'm Ahmad Taufiq Hidayat
+I’m a third-year Computer Science student at Universitas Pendidikan Indonesia, passionate about software development, networking, security, and blockchain. I enjoy building systems, and tackling real-world challenges.
 
-<!--
-**artefiq/artefiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technical Skills & Interests:
+Programming: C, Python, Golang, PHP (CodeIgniter), JavaScript (Vue.js)
+Databases: MongoDB (preferred for multi-collection projects), MySQL, and SQLite
+Web & Backend: FastAPI, Flask, RESTful APIs
+Security & Networking: Server analysis, network monitoring, and system security
+Data Science & AI: Sentiment analysis, data mining, and visualization
 
-Here are some ideas to get you started:
+🚀 What I'm Working On:
+Restful API using Golang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Experience & Roles:
+-
+
+🛠 My Tech Stack & Tools:
+Arch Linux 🐧 | Ryzen 5 3600 & GTX 1660 Super PC 🎮
+
+📬 Let's Connect!
+Always open to collaboration in backend development, security, networking, IoT, and blockchain projects. Let’s build something awesome together!

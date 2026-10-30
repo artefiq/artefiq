@@ -31,27 +31,35 @@ Taught more than 500 students:
 
 ## Selected projects
 
-### [Trenics](https://github.com/artefiq/CH5_OnLivit) (CH5 OnLivit)
+### Blockchain
 
-SwiftUI dashboard for App Store Connect. It lists apps, reads customer reviews and analytics, and signs requests with a JWT. I added the dashboard. The Xcode project was started by Ida Bagus Putu Ryan Paramasatya Putra ([GustuRyan](https://github.com/GustuRyan)).
+#### [zecsolve](https://github.com/Kurisu-Labs/zecsolve)
 
-### [FinTrack](https://github.com/artefiq/fintrack)
+Case management for disputed Zcash shielded payments. A customer shares a receipt for one shielded output; the merchant checks it against an invoice, reviews chain evidence, and records a decision. Approving a case records invoice credit and does not transfer ZEC. At Kurisu Labs I worked on the Vercel deployment, release tests, and the product docs.
 
-Serverless personal-finance backend. Azure Functions in Python, Cosmos DB, and Gemini categorize a purchase from text or a receipt photo. A later job exports a year of spending as Excel.
-
-### [Decentralized IoT Vending Machine](https://github.com/artefiq/vending-machine-rwa)
+#### [Decentralized IoT Vending Machine](https://github.com/artefiq/vending-machine-rwa)
 
 A coffee vending fleet represented as an on-chain real-world asset. Customers pay with a rupiah token, shareholders hold a share token, and a Python process pours only after the chain records the payment. It runs on a local Ganache chain.
 
-### [NCP Finder](https://github.com/artefiq/ncp-web-finder)
+### Other projects
+
+#### [Trenics](https://github.com/artefiq/CH5_OnLivit) (CH5 OnLivit)
+
+SwiftUI dashboard for App Store Connect. It lists apps, reads customer reviews and analytics, and signs requests with a JWT. I added the dashboard. The Xcode project was started by Ida Bagus Putu Ryan Paramasatya Putra ([GustuRyan](https://github.com/GustuRyan)).
+
+#### [FinTrack](https://github.com/artefiq/fintrack)
+
+Serverless personal-finance backend. Azure Functions in Python, Cosmos DB, and Gemini categorize a purchase from text or a receipt photo. A later job exports a year of spending as Excel.
+
+#### [NCP Finder](https://github.com/artefiq/ncp-web-finder)
 
 A private browser lookup for eNCPT terms. Next.js, React, TypeScript, and Tailwind. Search runs locally in the browser.
 
-### [Go RESTful API](https://github.com/artefiq/go-restful-api)
+#### [Go RESTful API](https://github.com/artefiq/go-restful-api)
 
 A REST API in Go with Gin and MongoDB. It covers registration, JWT authentication, and profile CRUD, with Swagger docs.
 
-Also: [iStack](https://github.com/artefiq/iStack), a team project at Apple Developer Academy, and [zecsolve](https://github.com/Kurisu-Labs/zecsolve) with Kurisu Labs.
+Also: [iStack](https://github.com/artefiq/iStack), a team project at Apple Developer Academy.
 
 ## Skills
 

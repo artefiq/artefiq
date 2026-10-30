@@ -1,30 +1,73 @@
-# 👋 Hey there! I'm Ahmad Taufiq Hidayat
+# Ahmad Taufiq Hidayat
 
-I’m a third-year Computer Science student at Universitas Pendidikan Indonesia, passionate about software development, networking, security, and blockchain. I enjoy building systems, and tackling real-world challenges.
+Computer Science graduate from Universitas Pendidikan Indonesia (2022–2026), based in Kuta, Bali. I am a learner in Apple Developer Academy Cohort 2026 at BINUS Bali, and a member of Kurisu Labs.
 
-## 💻 Technical Skills & Interests:
-Programming: C, Python, Golang, PHP (CodeIgniter), JavaScript (Vue.js)
-Databases: MongoDB (preferred for multi-collection projects), MySQL, and SQLite
-Web & Backend: FastAPI, Flask, RESTful APIs
-Security & Networking: Server analysis, network monitoring, and system security
-Data Science & AI: Sentiment analysis, data mining, and visualization
+## Now
 
-## 🚀 What I'm Working On:
-Restful API using Golang.
+- Learner, [Apple Developer Academy @ BINUS Bali](https://www.linkedin.com/company/apple-developer-academy-binus) (March 2026–present)
+- Member, Kurisu Labs (October 2026–present)
 
-## 🎓 Experience & Roles:
+I am learning Swift and iOS, and building App Store Connect tooling in SwiftUI.
 
+## Experience
 
-## 🛠 My Tech Stack & Tools:
-Arch Linux 🐧 | Ryzen 5 3600 & GTX 1660 Super PC 🎮
+### Developer Intern, Telkom Indonesia
 
-## 📬 Let's Connect!
-Always open to collaboration in backend development, security, networking, IoT, and blockchain projects. Let’s build something awesome together!
+February 2025 – May 2025 · Jakarta
 
----
+Built web services in Go with the Echo framework to automate code fixing with LLMs and SonarQube.
+
+### Practicum Assistant, Universitas Pendidikan Indonesia
+
+September 2023 – June 2025 · Bandung
+
+Taught more than 500 students:
+
+- Object-Oriented Programming (C, C++, Python, and Java), February 2025 – June 2025
+- Data Structures and Algorithms (C), September 2024 – December 2024
+- Operating Systems and Computer Networking (Linux and networking), September 2024 – December 2024
+- Basic Programming and Algorithms 2, February 2024 – May 2024
+- Basic Programming and Algorithms 1, September 2023 – December 2023
+
+## Selected projects
+
+### [Trenics](https://github.com/artefiq/CH5_OnLivit) (CH5 OnLivit)
+
+SwiftUI dashboard for App Store Connect. It lists apps, reads customer reviews and analytics, and signs requests with a JWT. I added the dashboard. The Xcode project was started by Ida Bagus Putu Ryan Paramasatya Putra ([GustuRyan](https://github.com/GustuRyan)).
+
+### [FinTrack](https://github.com/artefiq/fintrack)
+
+Serverless personal-finance backend. Azure Functions in Python, Cosmos DB, and Gemini categorize a purchase from text or a receipt photo. A later job exports a year of spending as Excel.
+
+### [Decentralized IoT Vending Machine](https://github.com/artefiq/vending-machine-rwa)
+
+A coffee vending fleet represented as an on-chain real-world asset. Customers pay with a rupiah token, shareholders hold a share token, and a Python process pours only after the chain records the payment. It runs on a local Ganache chain.
+
+### [NCP Finder](https://github.com/artefiq/ncp-web-finder)
+
+A private browser lookup for eNCPT terms. Next.js, React, TypeScript, and Tailwind. Search runs locally in the browser.
+
+### [Go RESTful API](https://github.com/artefiq/go-restful-api)
+
+A REST API in Go with Gin and MongoDB. It covers registration, JWT authentication, and profile CRUD, with Swagger docs.
+
+Also: [iStack](https://github.com/artefiq/iStack), a team project at Apple Developer Academy, and [zecsolve](https://github.com/Kurisu-Labs/zecsolve) with Kurisu Labs.
+
+## Skills
+
+- Languages: Go, Python, TypeScript, Swift, C
+- Backend: Gin, Echo, REST, Azure Functions
+- Data: MongoDB, Cosmos DB
+- Interface: SwiftUI, Next.js, React, Tailwind
+
+## Contact
+
+- Email: [taufiqhidayat140504@gmail.com](mailto:taufiqhidayat140504@gmail.com)
+- LinkedIn: [ataufiqh](https://www.linkedin.com/in/ataufiqh)
+
 <p align="left">
 <a href="https://github.com/artefiq">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=artefiq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artefiq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
